@@ -24,10 +24,6 @@ Morpheia changes this.
 
 It observes how users modify AI responses, extracts behavioral signals, and turns them into reusable rules that are automatically applied to future prompts.
 
-Every correction is lost.  
-Every preference must be repeated.
-
-Morpheia fixes this.
 
 It turns:
 
