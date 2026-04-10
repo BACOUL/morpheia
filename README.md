@@ -12,12 +12,18 @@ Morpheia turns micro-corrections into durable behavior.
 ---
 
 ✨ Why Morpheia exists
-
 LLMs are powerful, but they have a structural flaw:
 
 > They do not improve with use.
 
 Every interaction is independent.  
+Every correction is lost.  
+Every preference must be repeated.
+
+Morpheia changes this.
+
+It observes how users modify AI responses, extracts behavioral signals, and turns them into reusable rules that are automatically applied to future prompts.
+
 Every correction is lost.  
 Every preference must be repeated.
 
